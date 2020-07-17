@@ -4,7 +4,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://https://www.youtube.com/c/joaovictorpereirasantos/)](https://www.linkedin.com/in/joao-victor-pereira-santos/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_joaovictorps)](https://twitter.com/_joaovictorps)
 
-Hi! I'm a **João Victor**, a software develper who seeks help peoples through education and code.
+Hi! I'm **João Victor**, a software develper who seeks help peoples through education and code.
 
 ### 👩‍💻 Willingness to share knowledge
 What motivates me to work with programming is the possibility to create several projects that can help many peoples and still be able to share all the knowledge, being able to contribute to someone else's journey.
