@@ -14,5 +14,5 @@ I really like being able to participate in community events and being able to co
 
 ### 🔭 Goals for 2020
 - Share my studies on my [Youtube Channel](https://https://www.youtube.com/c/joaovictorpereirasantos/) and on [My Blog](https://medium.com/@joaovictorpsantos/).
-- Improve my skills in [React](https://pt-br.reactjs.org/docs/getting-started.html), [TypeScript](https://www.typescriptlang.org/index.html), [GraphQL](https://graphql.org/), [Node](https://nodejs.org/en/) and English.
+- Improve my skills in [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), [React](https://pt-br.reactjs.org/docs/getting-started.html), [TypeScript](https://www.typescriptlang.org/index.html), [GraphQL](https://graphql.org/), [Node](https://nodejs.org/en/) and English.
 - Create more real products
