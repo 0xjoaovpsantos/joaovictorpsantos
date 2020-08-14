@@ -9,7 +9,7 @@
 
 
 ### 🚀 Latest projects
-- [Marvel App (Progress)](https://github.com/joaovictorpsantos/marvel-app)
+- [Marvel App](https://github.com/joaovictorpsantos/marvel-app)
 - [Social App Prototype](https://github.com/joaovictorpsantos/social-app-prototype)
 - [Poker Simulator React](https://github.com/joaovictorpsantos/poker-simulator-react)
 - [Boilerplate React Typescript](https://github.com/joaovictorpsantos/boilerplate_react_typescript)
