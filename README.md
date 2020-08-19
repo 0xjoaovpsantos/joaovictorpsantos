@@ -9,11 +9,11 @@
 
 
 ### 🚀 Latest projects
+- [Spotify App (Coming soon)](https://github.com/joaovictorpsantos/spotify-app)
 - [Marvel App](https://github.com/joaovictorpsantos/marvel-app)
 - [Social App Prototype](https://github.com/joaovictorpsantos/social-app-prototype)
 - [Poker Simulator React](https://github.com/joaovictorpsantos/poker-simulator-react)
 - [Boilerplate React Typescript](https://github.com/joaovictorpsantos/boilerplate_react_typescript)
-- [Website Clone - Next Level Week #1](https://github.com/joaovictorpsantos/next-level-week-clone)
 - [Click here to see more projects](https://github.com/joaovictorpsantos?tab=repositories)
 
 
@@ -36,7 +36,7 @@
 - [Configurando um projeto web com React e TypeScript #5 - Boilerplate no Github](https://www.youtube.com/watch?v=Unjp7MdpUhs)
 - [Configurando um projeto web com React e TypeScript #4 - Prettier](https://www.youtube.com/watch?v=AnRBDBr3b9Q)
 - [Configurando um projeto web com React e TypeScript #3 - ESLint](https://www.youtube.com/watch?v=KpGfzwlI8Sw)
-- [Click here to see more vidos on my channel](https://www.youtube.com/c/joaovictorpereirasantos)
+- [Click here to see more videos on my channel](https://www.youtube.com/c/joaovictorpereirasantos)
 <!-- YOUTUBE:END -->
 
 
