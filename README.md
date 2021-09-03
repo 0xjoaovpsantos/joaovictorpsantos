@@ -5,11 +5,12 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_joaovictorps)](https://twitter.com/_joaovictorps)
 
 💻 Software developer who seeks help peoples through education and code.
+🖥  I'm currently focused on stack React, NextJS, TypeScript and JavaScript.
 
 
 
 ### 🚀 Latest projects
-- [Spotify App (Coming soon)](https://github.com/joaovictorpsantos/spotify-app)
+- [Pokedex](https://github.com/joaovictorpsantos/pokedex)
 - [Marvel App](https://github.com/joaovictorpsantos/marvel-app)
 - [Social App Prototype](https://github.com/joaovictorpsantos/social-app-prototype)
 - [Poker Simulator React](https://github.com/joaovictorpsantos/poker-simulator-react)
