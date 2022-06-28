@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Variáveis e seus escopos no JavaScript](https://medium.com/@joaovictorpsantos/vari%C3%A1veis-e-seus-escopos-no-javascript-9d3c27a59601)
 - [Binary Gap — Resolvendo com JavaScript](https://medium.com/@joaovictorpsantos/binary-gap-resolvendo-com-javascript-250f51b9de93)
 - [Qual a diferença entre for in, for of e forEach no JavaScript?](https://medium.com/@joaovictorpsantos/qual-a-diferen%C3%A7a-entre-for-in-for-of-e-foreach-no-javascript-7af6f6a56eea)
 - [Como usar o StyledComponents com React e TypeScript](https://medium.com/@joaovictorpsantos/styledcomponents-com-react-e-typescript-41936377bb9c)
 - [Resumo do podcast “Migrando de Tecnologias Dentro de um App Grande | Use Case #03”](https://medium.com/@joaovictorpsantos/resumo-do-podcast-migrando-de-tecnologias-dentro-de-um-app-grande-use-case-03-344663153e8c)
-- [Clonando Site da Rocketseat #08 — Footer](https://medium.com/@joaovictorpsantos/clonando-site-da-rocketseat-08-footer-5869b0022c7f)
 - [Cick here to see more posts on my blog](https://medium.com/@joaovictorpsantos)
 <!-- BLOG:END -->
 
