@@ -5,16 +5,16 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_joaovictorps)](https://twitter.com/_joaovictorps)
 
 💻 Software developer who seeks help peoples through education and code. <br/>
-🖥  I'm currently focused on stack React, NextJS, TypeScript and JavaScript.
+🖥  I'm currently focused on stack React, Relay, NextJS, JS/TS, NodeJS e GraphQL
 
 
 
 ### 🚀 Latest projects
+- [dictionary-cli](https://github.com/joaovictorpsantos/dictionary-cli)
 - [Pokedex](https://github.com/joaovictorpsantos/pokedex)
 - [Marvel App](https://github.com/joaovictorpsantos/marvel-app)
 - [Social App Prototype](https://github.com/joaovictorpsantos/social-app-prototype)
 - [Poker Simulator React](https://github.com/joaovictorpsantos/poker-simulator-react)
-- [Boilerplate React Typescript](https://github.com/joaovictorpsantos/boilerplate_react_typescript)
 - [Click here to see more projects](https://github.com/joaovictorpsantos?tab=repositories)
 
 
