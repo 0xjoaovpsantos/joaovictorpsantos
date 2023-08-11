@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_joaovictorps)](https://twitter.com/_joaovictorps)
 
 💻 Software developer who seeks help peoples through education and code. <br/>
-🖥  I'm currently focused on stack React, Relay, NextJS, JS/TS, NodeJS e GraphQL
+🖥  I'm currently focused on stack React, NextJS, TypeScript and Smart Contracts
 
 
 
